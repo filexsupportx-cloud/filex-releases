@@ -1,3 +1,3 @@
-# FileX Releases
+# Sorfy Releases
 
-Public release repository for FileX desktop installer and auto-update metadata.
+Public release repository for Sorfy desktop installer and auto-update metadata.
